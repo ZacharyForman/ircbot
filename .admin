@@ -1,0 +1,16 @@
+#Administrators
+admin:Parkinsons
+admin:Mining_
+
+#Oplist:
+operator:Parkinsons
+
+#VoiceList
+voice:magpiii
+
+#QuietList
+quietname:Leems
+quietip:173.176.23.98
+
+#BanList
+#empty for now

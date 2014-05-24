@@ -1,0 +1,7 @@
+#What to display
+notifications:true
+messages:true
+pms:true
+
+#What to output
+output:true

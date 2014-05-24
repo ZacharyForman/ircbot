@@ -1,0 +1,15 @@
+#enabled modules
+enable:fmtio
+enable:regex
+enable:admin
+enable:npost
+enable:timer
+
+#connection settings
+network:freenode.net
+channel:#animesketch
+nick:MiningBot
+password:swordfish
+
+#commands
+keychar:!

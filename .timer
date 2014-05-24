@@ -1,0 +1,7 @@
+#features
+enable:countdown
+enable:timer
+
+#limits
+timers:5
+userlimit:1

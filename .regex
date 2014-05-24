@@ -1,0 +1,6 @@
+#Features
+enable:substitution
+enable:translation
+
+#Timeout
+timeout:10
